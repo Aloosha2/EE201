@@ -1,6 +1,6 @@
 # Alicja Misiuda
 Hi! This is my about me page :grin:
-(http://url/to/img.png)
+https://github.com/Aloosha2/EE201/blob/aboutMe/aboutMe/IMG_0014.JPG?raw=true/to/img.png
 
 ## About me
 I am a second-year student at the University of Washington studying Electrical and Computer Engineering. I originally from Poland but my family moved to Redmond, Washington. I have one cat back at home and his name is snowball :cat: I am excited for EE 201!
