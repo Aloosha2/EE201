@@ -1,5 +1,6 @@
 # Alicja Misiuda
 Hi! This is my about me page :grin:
+
 ![aboutMe](alicja.png)
 
 ## About me
