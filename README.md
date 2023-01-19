@@ -1,4 +1,3 @@
 # EE 201
 
-This is a new line
-#lab1
+The lab1 branch contains my code for the Arduino exercises.
