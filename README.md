@@ -1,4 +1,3 @@
 # EE 201
 
-This is a new line
-#aboutMe
+This contains information about me :)
