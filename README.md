@@ -1,4 +1,3 @@
 # EE 201
 
-This is contains all of my content from EE201
-# lab 4
+This contains my work for lab 4 
